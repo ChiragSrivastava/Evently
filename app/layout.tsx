@@ -11,8 +11,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'INVITOHIVE',
-  description: 'INVITOHIVE is a platform for event management.',
+  title: 'InvitoHive',
+  description: 'InvitoHive is a platform for event management.',
   icons: {
     icon: '/assets/images/logo.svg'
   }
